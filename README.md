@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Mawan
+# Laporan Proyek 1 Machine Learning Terapan
 🌀 #6. "Machine Learning Terapan - Predictive Analytics"
 
 <br>
@@ -20,6 +20,8 @@
 
 <br>
 
+<div align="center">
+
 | Profile       |                                           |
 | ------------- | ----------------------------------------- |
 | Nama          | Nur Muhammad Himawan                      |
@@ -27,7 +29,7 @@
 | Progam        | Studi Independen Batch 3 - Kampus Merdeka |
 | Submission    | Proyek Machine Learning Terapan           |
 
-
+</div>
 
 <p align='center'>
     <img src ="https://github.com/nurmuhimawann/MLT_Dicoding/blob/main/images/hero-image.png?raw=true" alt="anemia">
